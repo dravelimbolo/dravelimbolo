@@ -23,7 +23,7 @@
 
   <p align="center"><a href="#"><img src="contributions.gif" /></a>
   </p>
-  <p align="center">Hi! I am a Full Stack web and mobile developer with a passion for code, as well as a strong background in creating, optimizing and referencing custom websites and mobile apps. Since 2018, I work as a freelancer, I also worked for 3 years part-time in a 360° communication agency. In addition to my development skills, I also have experience in community management and digital marketing, an experience justified by my certifications as well as a list of collaborations with brands for which I lead communities, implement and carry out strategies to promote them and/or their products. Whether you want to develop, optimize and/or reference your website or hire a community manager or better digitize your brand/company, I am your man, do not hesitate to contact me. I am ready to contribute my skills and expertise to contribute to the success of your projects.
+  <p align="center" style="text-align: justify;">Hi! I am a Full Stack web and mobile developer with a passion for code, as well as a strong background in creating, optimizing and referencing custom websites and mobile apps. Since 2018, I work as a freelancer, I also worked for 3 years part-time in a 360° communication agency. In addition to my development skills, I also have experience in community management and digital marketing, an experience justified by my certifications as well as a list of collaborations with brands for which I lead communities, implement and carry out strategies to promote them and/or their products. Whether you want to develop, optimize and/or reference your website or hire a community manager or better digitize your brand/company, I am your man, do not hesitate to contact me. I am ready to contribute my skills and expertise to contribute to the success of your projects.
   </p>
   
 
@@ -36,7 +36,11 @@
   </p>
 
 
-
+<center>
+<p align="center">
+  [![dravelimbolo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/dravelimbolo/github-readme-stats)
+</p>
+</center>
 <center>
   
   [![dravelimbolo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/dravelimbolo/github-readme-stats)
