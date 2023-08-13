@@ -34,18 +34,6 @@
         alt="Dravel IMBOLO"
     /></a>
   </p>
-
-
-<center>
-<p align="center">
-  [![dravelimbolo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/dravelimbolo/github-readme-stats)
-</p>
-</center>
-<center>
-  
-  [![dravelimbolo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/dravelimbolo/github-readme-stats)
-</center>
-
   <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/dravel-imbolo" target="blank"
