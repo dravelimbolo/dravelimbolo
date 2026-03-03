@@ -1,180 +1,126 @@
-<div>
-<p align="center"><a href="#"><img src="logo.png" alt="Logo Dravel IMBOLO"/></a>
-  <h1 align="center">Hi 👋, I'm Dravel IMBOLO</h1>
-   <h2 align="center" style="color:rgb(255,0,0) !important; ">I'm, free for work </h2>
-  <h3 align="center">
-    A passionate frontend and backend developer from Congo-Brazzaville
-  </h3>
+<div align="center">
 
-  
+<!-- Titre animé — texte BLANC -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=48&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&height=90&lines=DI%C2%B0;Dravel+IMBOLO)](https://dravelimbolo.com)
+
+**`Développeur Full Stack · Web · Mobile · Agile`**
+
+*Je transforme des
+besoins métier en solutions
+scalables et maintenables.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/-dravelimbolo.com-111111?style=for-the-badge&logo=safari&logoColor=white)](https://dravelimbolo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dravel-imbolo)
+[![GitHub](https://img.shields.io/badge/-GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dravelimbolo)
+[![Email](https://img.shields.io/badge/-contact@dravelimbolo.com-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dravelimbolo.com)
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=dravelimbolo&color=111111&style=for-the-badge&label=PROFILE+VIEWS)
+[![Wakatime](https://wakatime.com/badge/user/68d36f75-1b9c-4f4c-891b-a9e26415562e.svg?style=for-the-badge)](https://wakatime.com/@68d36f75-1b9c-4f4c-891b-a9e26415562e)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+4 ans d'expérience   ·   10+ projets livrés   ·   France 🇫🇷
+```
+
+**Je suis disponible pour une opportunité de stage ou d’alternance en France.**
+
+</div>
+
+---
+
+## Philosophie
+
+```
+- la sémantique avant la syntaxe       - la user story avant la feature          - la scalabilité avant le confort
+- l'UML avant l'implémentation         - le Kanban avant la précipitation        - des pipelines propres et évolutifs
+```
+
+## Stack technique
+
+<table align="center">
+<tr>
+  <td align="center">
+    <strong>Backend</strong><br/>
+    <img src="https://skillicons.dev/icons?i=python,django,laravel,php,symfony" />
+  </td>
+  <td align="center">
+    <strong>Mobile</strong><br/>
+    <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  </td>
+  <td align="center">
+    <strong>Frontend</strong><br/>
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
+  </td>
+  <td align="center">
+    <strong>Databases</strong><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
+  </td>
+  <td align="center">
+    <strong>DevOps & Outils</strong><br/>
+    <img src="https://skillicons.dev/icons?i=git,docker,github,githubactions,gitlab,nginx,linux,postman" />
+  </td>
+</tr>
+</table>
 
 
-  <p align="center">
-    <a href="https://wakatime.com/@68d36f75-1b9c-4f4c-891b-a9e26415562e">
-   <img src="https://wakatime.com/badge/user/68d36f75-1b9c-4f4c-891b-a9e26415562e.svg" alt="Dravel IMBOLO" />
-  </a>
-  </p>
-  <p align="center">
-    <img
-      src="https://komarev.com/ghpvc/?username=dravelimbolo&label=Profile%20views&color=0e75b6&style=flat"
-      alt="Dravel IMBOLO"
-    />
-  </p>
+## Activité
 
-  <p align="center"><a href="#"><img src="contributions.gif" /></a>
-  </p>
-  <p align="center" style="text-align: justify;">Hi! I am a Full Stack web and mobile developer with a passion for code, as well as a strong background in creating, optimizing and referencing custom websites and mobile apps. Since 2018, I work as a freelancer, I also worked for 3 years part-time in a 360° communication agency. In addition to my development skills, I also have experience in community management and digital marketing, an experience justified by my certifications as well as a list of collaborations with brands for which I lead communities, implement and carry out strategies to promote them and/or their products. Whether you want to develop, optimize and/or reference your website or hire a community manager or better digitize your brand/company, I am your man, do not hesitate to contact me. I am ready to contribute my skills and expertise to contribute to the success of your projects.
-  </p>
-  
+<table align="center" style="border-spacing:0;">
+<tr>
+  <td align="center" valign="top">
+    <strong>Streak</strong><br/>
+    <img src="https://streak-stats.demolab.com/?user=dravelimbolo&theme=default&hide_border=true&stroke=111111&ring=111111&fire=111111&currStreakNum=111111&sideNums=111111&currStreakLabel=555555&sideLabels=555555&dates=888888&background=FFFFFF" style="height:200px; display:block;" alt="GitHub Streak"/>
+  </td>
+  <td align="center" valign="top">
+    <strong>Stats</strong><br/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dravelimbolo&show_icons=true&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" style="height:200px; display:block;" alt="GitHub Stats"/>
+  </td>
+  <td align="center" valign="top">
+    <strong>Top Languages</strong><br/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dravelimbolo&langs_count=8&layout=compact&hide_border=true&title_color=111111&text_color=444444&bg_color=FFFFFF" style="height:200px; display:block;" alt="Top Languages"/>
+  </td>
+</tr>
+</table>
 
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"
-      ><img
-        src="https://github-profile-trophy.vercel.app/?username=dravelimbolo"
-        alt="Dravel IMBOLO"
-    /></a>
-  </p>
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/dravel-imbolo" target="blank"
-      >
-      <img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="Dravel IMBOLO"
-        height="30"
-        width="40"
-      />
-    </a>
-    <a href="https://stackexchange.com/users/29207155/dravel-imbolo" target="blank"
-      >
-      <img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-        alt="Dravel IMBOLO"
-        height="30"
-        width="40"
-      />
-    </a>
-    <a href="#" target="blank"
-      >
-      <img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-        alt="Dravel IMBOLO"
-        height="30"
-        width="40"
-      />
-    </a>
-    <a href="#" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-        alt="Dravel IMBOLO"
-        height="30"
-        width="40"
-    /></a>
-  </p>
+## Trophées
 
-  <p
-  align="center">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=dravelimbolo&theme=prussian"
-      alt="Dravel IMBOLO"
-    />
-  </p>
+<table align="center" style="border-spacing:0;">
+<tr>
+  <td align="center" valign="top">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+      <img src="https://trophy.ryglcloud.net/?username=dravelimbolo&theme=flat&no-frame=true&no-bg=false&margin-w=8&column=-1" style="height:200px; display:block;" alt="GitHub Trophies"/>
+    </a>
+  </td>
+</tr>
+</table>
 
-  <h3 align="center">Languages and Tools:</h3>
-  <p align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40"
-      height="40"/>
-    </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"
-      height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"      
-      height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"  
-      height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-    </a>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-  </p>
+## Graphe d'activité
 
-  <p align="center">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=dravelimbolo&langs_count=12&show_icons=true&locale=en&layout=compact&theme=prussian"
-      alt="Dravel IMBOLO"
-    />
-  </p>
-  <br />
+<table align="center" style="border-spacing:0; width:100%;">
+<tr>
+  <td align="center" valign="top" style="width:100%;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dravelimbolo&theme=minimal&hide_border=true&bg_color=FFFFFF&color=111111&line=111111&point=111111&area=true&area_color=dddddd" style="width:100%; display:block;" alt="Contribution Graph"/>
+  </td>
+</tr>
+</table>
 
-  <p align="center">
-    &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=dravelimbolo&show_icons=true&locale=en&theme=prussian"
-      alt="Dravel IMBOLO"
-    />
-  </p>
-  
-  <br>
-  <br>
+---
+
+<div align="center">
+
+<br/>
+
+*"Transformer des idées en applications fonctionnelles, robustes et scalables."*
+
+<br/>
+
 </div>
