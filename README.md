@@ -78,15 +78,15 @@ scalables et maintenables.*
 <tr>
   <td align="center" valign="top">
     <strong>Streak</strong><br/>
-    <img src="https://streak-stats.demolab.com/?user=dravelimbolo&theme=default&hide_border=true&stroke=111111&ring=111111&fire=111111&currStreakNum=111111&sideNums=111111&currStreakLabel=555555&sideLabels=555555&dates=888888&background=FFFFFF" style="height:200px; display:block;" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=dravelimbolo&theme=default&hide_border=true&stroke=111111&ring=111111&fire=111111&currStreakNum=111111&sideNums=111111&currStreakLabel=555555&sideLabels=555555&dates=888888&background=FFFFFF" style="height:160px; display:block;" alt="GitHub Streak"/>
   </td>
   <td align="center" valign="top">
     <strong>Stats</strong><br/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dravelimbolo&show_icons=true&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" style="height:200px; display:block;" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dravelimbolo&show_icons=true&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" style="height:160px; display:block;" alt="GitHub Stats"/>
   </td>
   <td align="center" valign="top">
     <strong>Top Languages</strong><br/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dravelimbolo&langs_count=8&layout=compact&hide_border=true&title_color=111111&text_color=444444&bg_color=FFFFFF" style="height:200px; display:block;" alt="Top Languages"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dravelimbolo&langs_count=8&layout=compact&hide_border=true&title_color=111111&text_color=444444&bg_color=FFFFFF" style="height:160px; display:block;" alt="Top Languages"/>
   </td>
 </tr>
 </table>
@@ -96,8 +96,8 @@ scalables et maintenables.*
 <table align="center" style="border-spacing:0;">
 <tr>
   <td align="center" valign="top">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-      <img src="https://trophy.ryglcloud.net/?username=dravelimbolo&theme=flat&no-frame=true&no-bg=false&margin-w=8&column=-1" style="height:200px; display:block;" alt="GitHub Trophies"/>
+    <a href="https://github.com/hesreallyhim/github-profile-trophy-fork" target="_blank">
+      <img src="https://github-profile-trophy-fork-two.vercel.app/?username=dravelimbolo&theme=flat&no-frame=true&no-bg=false&margin-w=8&column=-1" style="height:150px; display:block;" alt="GitHub Trophies"/>
     </a>
   </td>
 </tr>
