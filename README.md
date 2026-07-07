@@ -125,7 +125,7 @@ scalables et maintenables.*
 
 <br/>
 
-*"Transformer des idées en applications fonctionnelles, robustes et scalables."*
+*"Transformons des idées en applications fonctionnelles, robustes et scalables."*
 
 <br/>
 
