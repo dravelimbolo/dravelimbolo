@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Titre animé — texte BLANC -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=48&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&height=90&lines=DI%C2%B0;Dravel+IMBOLO)](https://dravelimbolo.com)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=48&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&height=90&lines=DI%C2%B0;Dravel+IMBOLO">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=48&duration=2800&pause=1200&color=000000&center=true&vCenter=true&width=500&height=90&lines=DI%C2%B0;Dravel+IMBOLO">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=48&duration=2800&pause=1200&color=000000&center=true&vCenter=true&width=500&height=90&lines=DI%C2%B0;Dravel+IMBOLO">
-</picture>
+<a href="https://dravelimbolo.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=48&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&height=90&lines=DI%C2%B0;Dravel+IMBOLO">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=48&duration=2800&pause=1200&color=#7f7f7f&center=true&vCenter=true&width=500&height=90&lines=DI%C2%B0;Dravel+IMBOLO">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=48&duration=2800&pause=1200&color=000000&center=true&vCenter=true&width=500&height=90&lines=DI%C2%B0;Dravel+IMBOLO">
+  </picture>
+</a>
 
 **`Développeur Full Stack · Web · Mobile · Agile`**
 
