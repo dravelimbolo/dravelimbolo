@@ -88,11 +88,11 @@ scalables et maintenables.*
   </td>
   <td align="center" valign="top">
     <strong>Stats</strong><br/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dravelimbolo&show_icons=true&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" style="height:160px; display:block;" alt="GitHub Stats"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=dravelimbolo&show_icons=true&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" style="height:160px; display:block;" alt="GitHub Stats"/>
   </td>
   <td align="center" valign="top">
     <strong>Top Languages</strong><br/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dravelimbolo&langs_count=8&layout=compact&hide_border=true&title_color=111111&text_color=444444&bg_color=FFFFFF" style="height:160px; display:block;" alt="Top Languages"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dravelimbolo&langs_count=8&layout=compact&hide_border=true&title_color=111111&text_color=444444&bg_color=FFFFFF" style="height:160px; display:block;" alt="Top Languages"/>
   </td>
 </tr>
 </table>
